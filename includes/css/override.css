@@ -1,0 +1,10 @@
+h1, h2, h3, h4, h5, p, a {
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+.orbit-bullets,
+.orbit-slide-number,
+.orbit-container .orbit-next,
+.orbit-container .orbit-prev {
+	display:none;
+}
